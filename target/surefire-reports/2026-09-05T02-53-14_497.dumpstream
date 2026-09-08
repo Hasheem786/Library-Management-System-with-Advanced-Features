@@ -1,0 +1,5 @@
+# Created at 2026-09-05T02:53:20.852
+Boot Manifest-JAR contains absolute paths in classpath 'D:\MH\Airtribe Projects\Library Management System with Advanced Features\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

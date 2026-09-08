@@ -1,0 +1,6 @@
+com\library\FineCalculatorServiceTest.class
+com\library\MemberServiceTest.class
+com\library\BorrowingServiceTest.class
+com\library\AnalyticsServiceTest.class
+com\library\BookServiceTest.class
+com\library\SearchAndRecommendationTest.class
